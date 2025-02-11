@@ -1,6 +1,7 @@
-Device Changelog of PROJECT_INFINITY-X-2.5
+# Device Changelog of PROJECT_INFINITY-X-2.5
+
 - Fixed volume steps control in voip calls (Messenger, WhatsApp)
-- Fixed sound in WFD (Wireless Dispaly)
+- Fixed sound in WFD (Wireless Display)
 - Fixed Freeform Window (sidebar)
 - Enable blur by default
 - Remove OMX codec
